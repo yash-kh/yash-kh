@@ -1,16 +1,15 @@
+Yash Khatri
+-
 ### Hi there 👋
 
-<!--
-**yash-kh/yash-kh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Home Price Prediction Project.
+- 🌱 I’m currently learning **Deep Learning**.
+- 👯 I’m looking for a group to learn new everyday.
+- 🤔 I’m looking for help with working with docker.
+- 💬 Ask me about Data Science, ML, IBM cloud.
+- 📫 How to reach me:
+  * [![linkedin](https://github.com/yash-kh/yash-kh/blob/master/img/linkedin.png)](https://www.linkedin.com/in/yash-khatri-35850018b/)
+  * [![Gmail](https://github.com/yash-kh/yash-kh/blob/master/img/gmail.png)](mailto:yashkhatri2198@gmail.com)
+- 😄 Pronouns: yes with a "H" at the end.
+- ⚡ Fun fact: Its good to copy if you have alredy done it twice.😜
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
